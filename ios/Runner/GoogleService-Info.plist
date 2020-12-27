@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>916841574399-d6u84oqvtlbgh52c3l3ggv2domdfnscf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.916841574399-d6u84oqvtlbgh52c3l3ggv2domdfnscf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>916841574399-cqn2jce2faldjf6lanjq9q1ue8hj8bm7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBWT_188xDnDejbVy2EZs8K3cjiz9LwwBo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>916841574399</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.waltonbd.thikthak</string>
+	<key>PROJECT_ID</key>
+	<string>optimal-courage-277017</string>
+	<key>STORAGE_BUCKET</key>
+	<string>optimal-courage-277017.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<true></true>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:916841574399:ios:2d775fbe2b77048a07c1ca</string>
+	<key>DATABASE_URL</key>
+	<string>https://optimal-courage-277017.firebaseio.com</string>
+</dict>
+</plist>

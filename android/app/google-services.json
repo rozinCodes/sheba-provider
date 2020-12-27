@@ -1,0 +1,79 @@
+{
+  "project_info": {
+    "project_number": "916841574399",
+    "firebase_url": "https://optimal-courage-277017.firebaseio.com",
+    "project_id": "optimal-courage-277017",
+    "storage_bucket": "optimal-courage-277017.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:916841574399:android:5257fada7e5eaf4c07c1ca",
+        "android_client_info": {
+          "package_name": "com.waltonbd.thikthak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "916841574399-40p5kp3r9a6cjm9tstreg0djsl075ug2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waltonbd.thikthak",
+            "certificate_hash": "b696c48c5ba779938f7e1c6245d6da280b063e5c"
+          }
+        },
+        {
+          "client_id": "916841574399-cqn2jce2faldjf6lanjq9q1ue8hj8bm7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waltonbd.thikthak",
+            "certificate_hash": "c44f855e434588414e7e60d7ac074c7b03f6104c"
+          }
+        },
+        {
+          "client_id": "916841574399-d0j57telk8i7b9t2668l2lkp7m0jq90t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waltonbd.thikthak",
+            "certificate_hash": "ad46787a5602fc3b83a107df254c60b450714fa3"
+          }
+        },
+        {
+          "client_id": "916841574399-vk8bptl0i4kvc1slpkb6pe4khs7pqaql.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.waltonbd.thikthak",
+            "certificate_hash": "937dcd10085c7f1ab61ee2af58e058aeccc4da76"
+          }
+        },
+        {
+          "client_id": "916841574399-tu05skfteufih2cekvjndi2hq03pk6e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3X3xaWwDen3FpBV2c4fB9CGg52fcPSmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "916841574399-tu05skfteufih2cekvjndi2hq03pk6e0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "916841574399-d6u84oqvtlbgh52c3l3ggv2domdfnscf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.waltonbd.thikthak"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
